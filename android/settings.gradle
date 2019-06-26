@@ -1,0 +1,3 @@
+rootProject.name = 'wissle'
+
+include ':app'
